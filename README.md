@@ -1,5 +1,7 @@
 # 🚗 Auto Rehab Global – WordPress Website
 
+![Auto Rehab Global Screenshot 2](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/Home-Auto-Rehab-Globals-10-07-2025_10_58_PM.png)
+
 **Live Website:** [https://www.autorehabglobal.com/](https://www.autorehabglobal.com/)
 
 This project is a **fully custom WordPress website** developed for **Auto Rehab Global**, a professional auto repair and restoration service.  
@@ -51,8 +53,6 @@ This project includes **custom sections**, **interactive elements**, and **optim
 Below are previews of the final website layout and design:
 
 ![Auto Rehab Global Screenshot 1](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/Gallery-Auto-Rehab-Globals-10-07-2025_11_01_PM.png)
-
-*(Add additional 5 screenshots below once uploaded to your GitHub repository)*
 
 Example placeholders:
 
