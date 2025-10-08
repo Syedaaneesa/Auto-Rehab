@@ -56,11 +56,13 @@ Below are previews of the final website layout and design:
 
 Example placeholders:
 
-![Auto Rehab Global Screenshot 2](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/image2.png)
-![Auto Rehab Global Screenshot 3](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/image3.png)
-![Auto Rehab Global Screenshot 4](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/image4.png)
-![Auto Rehab Global Screenshot 5](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/image5.png)
-![Auto Rehab Global Screenshot 6](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/image6.png)
+![Auto Rehab Global Screenshot 2](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/Home-Auto-Rehab-Globals-10-07-2025_10_58_PM.png)
+![Auto Rehab Global Screenshot 3](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/Our-Services-Auto-Rehab-Globals-10-07-2025_11_02_PM.png)
+![Auto Rehab Global Screenshot 4](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/ng-Auto-Rehab-Globals-10-07-2025_11_01_PM.png)
+![Auto Rehab Global Screenshot 5](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/uk-Auto-Rehab-Globals-10-07-2025_10_59_PM.png)
+![Auto Rehab Global Screenshot 6](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/uk-Auto-Rehab-Globals-10-07-2025_10_59_PMs.png)
+![Auto Rehab Global Screenshot 7](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/uk-Auto-Rehab-Globals-10-07-2025_11_00_PM.png)
+![Auto Rehab Global Screenshot 8](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/uk-Auto-Rehab-Globals-10-07-2025_11_00_PMsa.png)
 
 ---
 
