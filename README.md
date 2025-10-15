@@ -50,7 +50,7 @@ This project includes **custom sections**, **interactive elements**, and **optim
 
 ## 📸 Project Gallery
 
-Below are previews of the final website layout and design:
+The following images showcase the completed website layout and design:
 
 ![Auto Rehab Global Screenshot 1](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/Gallery-Auto-Rehab-Globals-10-07-2025_11_01_PM.png)
 
