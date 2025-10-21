@@ -69,9 +69,12 @@ Example placeholders:
 ## 🚀 Deployment & Maintenance
 
 The site was deployed on a **secure WordPress hosting environment**, with:
-- Regular backups configured
-- Plugin and theme updates managed
-- Security hardening measures applied
+
+Routine backup system configured for data safety
+
+Continuous plugin and theme maintenance ensured
+
+Comprehensive security hardening and protection applied
 
 ---
 
