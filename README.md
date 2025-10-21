@@ -1,4 +1,4 @@
-# 🚗 Auto Rehab Global – WordPress Website
+# 🚗 Auto Rehab Global – Custom WordPress Website
 
 ![Auto Rehab Global Screenshot 2](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/Home-Auto-Rehab-Globals-10-07-2025_10_58_PM.png)
 
@@ -70,11 +70,11 @@ Example placeholders:
 
 The site was deployed on a **secure WordPress hosting environment**, with:
 
-Routine backup system configured for data safety
+Regular backup system implemented to ensure data security
 
-Continuous plugin and theme maintenance ensured
+Ongoing updates and maintenance for all plugins and themes
 
-Comprehensive security hardening and protection applied
+Robust security measures applied for enhanced protection
 
 ---
 
