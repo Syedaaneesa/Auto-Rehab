@@ -70,21 +70,24 @@ Example placeholders:
 
 The site was deployed on a **secure WordPress hosting environment**, with:
 
-Regular backup system implemented to ensure data security
+Automated backup system configured to safeguard data integrity
 
-Ongoing updates and maintenance for all plugins and themes
+Continuous plugin and theme updates for optimal performance
 
-Robust security measures applied for enhanced protection
+Advanced security protocols implemented for maximum protection
 
 ---
 
 ## 📚 Learnings & Takeaways
 
 Through this project, I improved my expertise in:
-- WordPress theme customization
-- Front-end styling and responsive design
-- SEO-friendly content structure
-- Performance optimization techniques
+Custom WordPress theme development
+
+Responsive front-end design and styling
+
+SEO-optimized content architecture
+
+Advanced performance enhancement techniques
 
 ---
 
