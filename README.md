@@ -70,12 +70,14 @@ Example placeholders:
 
 The site was deployed on a **secure WordPress hosting environment**, with:
 
-Automated backup system configured to safeguard data integrity
+Automated backup system configured to safeguard data integrity →
+Automated backup solution set up to ensure complete data safety and reliability.
 
-Continuous plugin and theme updates for optimal performance
+Continuous plugin and theme updates for optimal performance →
+Regular plugin and theme updates maintained for peak website performance.
 
-Advanced security protocols implemented for maximum protection
-
+Advanced security protocols implemented for maximum protection →
+Enhanced security measures deployed to provide top-level protection.
 ---
 
 ## 📚 Learnings & Takeaways
