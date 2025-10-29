@@ -18,7 +18,7 @@ The website is designed and developed using **WordPress** with a focus on:
 - Elegant user interface with intuitive navigation
 - High-quality imagery to highlight the brand’s services
 
-This project includes **custom sections**, **interactive elements**, and **optimized content** to enhance user engagement and boost credibility.
+This project features tailored sections, dynamic elements, and refined content designed to improve user interaction and strengthen brand credibility.
 
 ---
 
