@@ -4,18 +4,23 @@
 
 **Live Website:** [https://www.autorehabglobal.com/](https://www.autorehabglobal.com/)
 
-This custom WordPress website was developed for Auto Rehab Global, a premium automotive repair and restoration brand. The goal was to build a sleek, high-performance platform that highlights their craftsmanship in restoration, repairs, and custom automotive solutions.
+This bespoke WordPress website was crafted for Auto Rehab Global, a premier brand specializing in automotive repair and restoration. The project aimed to create a modern, high-performance platform that showcases their expertise in restoration, repair, and custom automotive craftsmanship.
 
 ---
 
 ## 🧩 Project Overview
 
-The website is designed and developed using **WordPress** with a focus on:
-- Responsive design for all devices (desktop, tablet, mobile)
-- Fast loading performance
-- SEO optimization
-- Elegant user interface with intuitive navigation
-- High-quality imagery to highlight the brand’s services
+The website was built on WordPress, emphasizing:
+
+Fully responsive layouts across all devices (desktop, tablet, and mobile)
+
+Optimized speed and performance
+
+SEO-friendly structure for better visibility
+
+Refined user interface with smooth, intuitive navigation
+
+High-resolution visuals showcasing the brand’s expertise and services
 
 This project features custom-designed sections, interactive elements, and refined content created to elevate user engagement and strengthen brand credibility.
 ---
