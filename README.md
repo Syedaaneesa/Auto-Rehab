@@ -4,7 +4,7 @@
 
 **Live Website:** [https://www.autorehabglobal.com/](https://www.autorehabglobal.com/)
 
-This custom WordPress website was developed for Auto Rehab Global, a leading brand in automotive repair and restoration. The goal was to create a modern, high-performance platform that highlights their expertise in repairs, restorations, and custom automotive craftsmanship.
+This custom WordPress website was built for Auto Rehab Global, a leading name in automotive repair and restoration. The objective was to create a modern, high-performance platform that showcases their expertise in repairs, restorations, and custom automotive craftsmanship.
 ---
 
 ## 🧩 Project Overview
@@ -84,16 +84,15 @@ Enhanced security measures deployed to provide top-level protection.
 
 ## 📚 Learnings & Takeaways
 
-Through this project, I enhanced my expertise in:
+Through this project, I strengthened my expertise in:
 
 Custom WordPress theme development
 
 Responsive front-end design and styling
 
-SEO-driven content architecture
+SEO-focused content structuring
 
-Advanced performance optimization methods
-
+Advanced performance optimization techniques
 ---
 
 ## 👩‍💻 Developer
