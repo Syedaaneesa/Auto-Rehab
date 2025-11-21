@@ -19,8 +19,9 @@ SEO-optimized structure to improve online visibility
 
 Intuitive user interface with seamless navigation
 
-High-quality visuals highlighting the brand’s expertise and services
-This project features custom-designed sections, interactive elements, and refined content created to elevate user engagement and strengthen brand credibility.
+High-quality visuals that showcase the brand’s expertise and services
+
+The project includes custom-designed sections, interactive elements, and polished content crafted to boost user engagement and reinforce brand credibility.
 ---
 
 ## 🛠️ Tools & Technologies Used
@@ -69,10 +70,9 @@ Example placeholders:
 
 ## 🚀 Deployment & Maintenance
 
-The website was deployed on a secure WordPress hosting platform, featuring:
-– An automated backup system to guarantee complete data protection and reliability.
-– Ongoing plugin and theme updates to maintain top performance and stability.
-Alternative (slightly more technical & concise):
+The website was deployed on a secure WordPress hosting environment that includes:
+– Automated backups to ensure full data protection and reliability.
+– Continuous plugin and theme updates to maintain optimal performance and stability.
 
 Deployed on a secure WordPress hosting setup with:
 – Automated backups to protect data and maintain reliability.
@@ -84,13 +84,13 @@ Enhanced security measures deployed to provide top-level protection.
 
 ## 📚 Learnings & Takeaways
 
-Through this project, I strengthened my expertise in:
+Through this project, I enhanced my skills in:
 
 Custom WordPress theme development
 
 Responsive front-end design and styling
 
-SEO-focused content structuring
+SEO-driven content structuring
 
 Advanced performance optimization techniques
 ---
