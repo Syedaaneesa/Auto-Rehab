@@ -4,7 +4,7 @@
 
 **Live Website:** [https://www.autorehabglobal.com/](https://www.autorehabglobal.com/)
 
-This custom WordPress website was created for Auto Rehab Global, a leading name in automotive repair and restoration. The objective was to deliver a sleek, high-performance platform that showcases their expertise in repairs, restorations, and custom automotive craftsmanship.
+This custom WordPress website was developed for Auto Rehab Global, a respected leader in automotive repair and restoration. The goal was to create a sleek, high-performance platform that highlights their repair expertise, restoration work, and custom automotive craftsmanship.
 ---
 
 ## 🧩 Project Overview
@@ -74,9 +74,9 @@ The website was deployed on a secure WordPress hosting environment that includes
 – Automated backups to ensure full data protection and reliability.
 – Continuous plugin and theme updates to maintain optimal performance and stability.
 
-Deployed on a secure WordPress hosting setup with:
-– Automated backups to protect data and maintain reliability.
-– Routine plugin and theme updates to ensure top-tier performance and security.
+Deployed on a secure WordPress hosting platform featuring:
+– Automated backups to safeguard data and ensure reliability
+– Regular plugin and theme updates to maintain optimal performance and security
 
 Advanced security protocols implemented for maximum protection →
 Enhanced security measures deployed to provide top-level protection.
@@ -84,10 +84,10 @@ Enhanced security measures deployed to provide top-level protection.
 
 ## 📚 Learnings & Takeaways
 
-Through this project, I strengthened my skills in:
-• Custom WordPress theme development
-• Creating fully responsive front-end layouts and styling
-• Structuring content with an SEO-driven approach
+Through this project, I enhanced my expertise in:
+• Developing custom WordPress themes
+• Building fully responsive front-end layouts with precise styling
+• Organizing content with an SEO-focused strategy
 
 Advanced performance optimization techniques
 ---
