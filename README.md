@@ -4,7 +4,7 @@
 
 **Live Website:** [https://www.autorehabglobal.com/](https://www.autorehabglobal.com/)
 
-This custom WordPress website was developed for Auto Rehab Global, a respected leader in automotive repair and restoration. The goal was to create a sleek, high-performance platform that highlights their repair expertise, restoration work, and custom automotive craftsmanship.
+This custom WordPress website was built for Auto Rehab Global, a trusted name in automotive repair and restoration. The project focused on creating a sleek, high-performance platform that showcases their repair expertise, restoration services, and custom automotive craftsmanship.
 ---
 
 ## 🧩 Project Overview
@@ -21,7 +21,7 @@ Intuitive user interface with seamless navigation
 
 High-quality visuals that showcase the brand’s expertise and services
 
-The project includes custom-designed sections, interactive elements, and polished content crafted to boost user engagement and reinforce brand credibility.
+The project features custom-designed sections, interactive elements, and well-crafted content aimed at increasing user engagement and strengthening brand credibility.
 ---
 
 ## 🛠️ Tools & Technologies Used
@@ -74,20 +74,19 @@ The website was deployed on a secure WordPress hosting environment that includes
 – Automated backups to ensure full data protection and reliability.
 – Continuous plugin and theme updates to maintain optimal performance and stability.
 
-Deployed on a secure WordPress hosting platform featuring:
-– Automated backups to safeguard data and ensure reliability
-– Regular plugin and theme updates to maintain optimal performance and security
+Deployed on a secure WordPress hosting environment with:
+– Automated backups to protect data and ensure reliability
+– Routine plugin and theme updates for optimal performance and security
 
 Advanced security protocols implemented for maximum protection →
 Enhanced security measures deployed to provide top-level protection.
 ---
 
 ## 📚 Learnings & Takeaways
-
-Through this project, I enhanced my expertise in:
+Through this project, I strengthened my skills in:
 • Developing custom WordPress themes
-• Building fully responsive front-end layouts with precise styling
-• Organizing content with an SEO-focused strategy
+• Creating fully responsive front-end layouts with precise styling
+• Structuring content using an SEO-driven approach
 
 Advanced performance optimization techniques
 ---
