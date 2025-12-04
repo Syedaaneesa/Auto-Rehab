@@ -4,16 +4,16 @@
 
 **Live Website:** [https://www.autorehabglobal.com/](https://www.autorehabglobal.com/)
 
-This custom WordPress website was built for Auto Rehab Global, a trusted name in automotive repair and restoration. The project focused on creating a sleek, high-performance platform that showcases their repair expertise, restoration services, and custom automotive craftsmanship.
+This custom WordPress website was crafted for Auto Rehab Global, a reputable leader in automotive repair and restoration. The goal was to build a sleek, high-performance platform that highlights their repair expertise, restoration capabilities, and custom automotive craftsmanship.
 ---
 
 ## 🧩 Project Overview
 
-The website was developed in WordPress, featuring:
+The website was built on WordPress and includes:
 
-Fully responsive design for desktop, tablet, and mobile devices
+A fully responsive layout optimized for desktop, tablet, and mobile
 
-Enhanced speed and overall performance
+Improved speed and overall performance
 
 SEO-optimized structure to improve online visibility
 
@@ -21,7 +21,7 @@ Intuitive user interface with seamless navigation
 
 High-quality visuals that showcase the brand’s expertise and services
 
-The project features custom-designed sections, interactive elements, and well-crafted content aimed at increasing user engagement and strengthening brand credibility.
+The project includes custom-designed sections, interactive elements, and thoughtfully crafted content to boost user engagement and enhance brand credibility.
 ---
 
 ## 🛠️ Tools & Technologies Used
@@ -70,9 +70,9 @@ Example placeholders:
 
 ## 🚀 Deployment & Maintenance
 
-The website was deployed on a secure WordPress hosting environment that includes:
-– Automated backups to ensure full data protection and reliability.
-– Continuous plugin and theme updates to maintain optimal performance and stability.
+The website was deployed on a secure WordPress hosting environment featuring:
+– Automated backups for complete data protection and reliability
+– Ongoing plugin and theme updates to ensure optimal performance and stability
 
 Deployed on a secure WordPress hosting environment with:
 – Automated backups to protect data and ensure reliability
@@ -83,10 +83,10 @@ Enhanced security measures deployed to provide top-level protection.
 ---
 
 ## 📚 Learnings & Takeaways
-Through this project, I strengthened my skills in:
-• Developing custom WordPress themes
-• Creating fully responsive front-end layouts with precise styling
-• Structuring content using an SEO-driven approach
+Through this project, I enhanced my expertise in:
+• Building custom WordPress themes
+• Developing fully responsive front-end layouts with accurate, polished styling
+• Organizing content with a strategic, SEO-focused approach
 
 Advanced performance optimization techniques
 ---
