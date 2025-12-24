@@ -4,22 +4,22 @@
 
 **Live Website:** [https://www.autorehabglobal.com/](https://www.autorehabglobal.com/)
 
-This bespoke WordPress website was developed for Auto Rehab Global, a trusted name in automotive repair and restoration, to deliver a modern, high-performance platform showcasing their technical expertise, restoration services, and custom automotive craftsmanship.
+This bespoke WordPress website was created for Auto Rehab Global, a trusted automotive repair and restoration brand, delivering a modern, high-performance platform that highlights their technical expertise, restoration services, and custom automotive craftsmanship.
 ---
 
 ## 🧩 Project Overview
 
-A fully responsive design optimized for desktop, tablet, and mobile devices
+A fully responsive design delivering a consistent experience across desktop, tablet, and mobile devices.
 
-Enhanced loading speed and overall performance
+Optimized loading times and improved overall site performance.
 
-SEO-friendly structure to strengthen online visibility
+SEO-optimized site architecture to boost online visibility.
 
-A clean, intuitive interface with smooth navigation
+A clean, user-friendly interface with smooth, intuitive navigation.
 
-High-quality visuals highlighting the brand’s expertise and services
+High-quality visuals designed to prominently highlight the brand’s expertise and services.
 
-The project features custom-built sections, interactive components, and carefully structured content to increase user engagement and strengthen brand credibility.
+Custom-built sections, interactive elements, and thoughtfully organized content enhance user engagement and reinforce brand credibility.
 ---
 
 ## 🛠️ Tools & Technologies Used
@@ -85,11 +85,11 @@ Enhanced security measures deployed to provide top-level protection.
 
 ## 📚 Learnings & Takeaways
 Through this project, I enhanced my expertise in:
-Designing and developing bespoke WordPress themes
+Designing and developing custom WordPress themes tailored to project needs.
 
-Creating fully responsive front-end layouts with precise, high-quality styling
+Building fully responsive front-end layouts with polished, high-quality styling.
 
-Structuring content using a strategic, SEO-driven approach
+Organizing content with a strategic, SEO-focused approach to enhance visibility.
 
 Advanced performance optimization techniques
 ---
