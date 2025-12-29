@@ -4,20 +4,20 @@
 
 **Live Website:** [https://www.autorehabglobal.com/](https://www.autorehabglobal.com/)
 
-This bespoke WordPress website was created for Auto Rehab Global, a trusted automotive repair and restoration brand, delivering a modern, high-performance platform that highlights their technical expertise, restoration services, and custom automotive craftsmanship.
+This custom WordPress website was developed for Auto Rehab Global, a trusted automotive repair and restoration brand, providing a modern, high-performance platform that showcases their technical expertise, restoration services, and custom automotive craftsmanship.
 ---
 
 ## 🧩 Project Overview
 
-A fully responsive design delivering a consistent experience across desktop, tablet, and mobile devices.
+A fully responsive design ensuring a seamless experience across desktop, tablet, and mobile devices.
 
-Optimized loading times and improved overall site performance.
+Enhanced loading speeds and optimized overall site performance.
 
-SEO-optimized site architecture to boost online visibility.
+An SEO-friendly site structure to improve search engine visibility.
 
-A clean, user-friendly interface with smooth, intuitive navigation.
+A clean, user-centric interface with smooth and intuitive navigation.
 
-High-quality visuals designed to prominently highlight the brand’s expertise and services.
+High-quality visuals that effectively showcase the brand’s expertise and services.
 
 Custom-built sections, interactive elements, and thoughtfully organized content enhance user engagement and reinforce brand credibility.
 ---
@@ -39,12 +39,17 @@ Custom-built sections, interactive elements, and thoughtfully organized content 
 
 ## 🎨 Design Process & Efforts
 
-1. **Theme Customization** – Tailored a base WordPress theme to meet branding and layout requirements.  
-2. **UI/UX Design** – Focused on user-friendly structure, typography, and a color palette reflecting automotive excellence.  
-3. **Page Building** – Built each section manually with Elementor and custom CSS for unique visual appeal.  
-4. **Image Optimization** – Compressed and resized all images for better performance without losing quality.  
-5. **SEO & Speed Optimization** – Configured Yoast SEO and caching tools for faster loading times and improved search visibility.  
-6. **Testing & Responsiveness** – Conducted thorough testing on multiple browsers and devices.  
+Theme Customization – Customized a base WordPress theme to align with brand identity and layout needs.
+
+UI/UX Design – Designed a user-focused interface with refined typography and an automotive-inspired color palette.
+
+Page Development – Manually built each section using Elementor and custom CSS to achieve a distinctive visual style.
+
+Image Optimization – Optimized and compressed images to improve performance while maintaining visual quality.
+
+SEO & Performance Optimization – Implemented Yoast SEO and caching solutions to enhance loading speed and search engine visibility.
+
+Testing & Responsiveness – Performed extensive cross-browser and multi-device testing to ensure full responsiveness.
 
 ---
 
@@ -85,11 +90,11 @@ Enhanced security measures deployed to provide top-level protection.
 
 ## 📚 Learnings & Takeaways
 Through this project, I enhanced my expertise in:
-Designing and developing custom WordPress themes tailored to project needs.
+Creating and developing custom WordPress themes specifically tailored to project requirements.
 
-Building fully responsive front-end layouts with polished, high-quality styling.
+Crafting fully responsive front-end layouts with clean, high-quality styling.
 
-Organizing content with a strategic, SEO-focused approach to enhance visibility.
+Structuring content strategically with an SEO-focused approach to maximize visibility.
 
 Advanced performance optimization techniques
 ---
