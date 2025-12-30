@@ -4,20 +4,20 @@
 
 **Live Website:** [https://www.autorehabglobal.com/](https://www.autorehabglobal.com/)
 
-This custom WordPress website was developed for Auto Rehab Global, a trusted automotive repair and restoration brand, providing a modern, high-performance platform that showcases their technical expertise, restoration services, and custom automotive craftsmanship.
+This custom WordPress website was built for Auto Rehab Global, a reputable automotive repair and restoration brand, delivering a modern, high-performance platform that highlights their expertise, restoration services, and custom automotive craftsmanship.
 ---
 
 ## 🧩 Project Overview
 
-A fully responsive design ensuring a seamless experience across desktop, tablet, and mobile devices.
+Fully responsive design for a smooth experience across desktop, tablet, and mobile devices
 
-Enhanced loading speeds and optimized overall site performance.
+Improved page load times with optimized overall performance
 
-An SEO-friendly site structure to improve search engine visibility.
+SEO-optimized site structure to boost search engine visibility
 
-A clean, user-centric interface with smooth and intuitive navigation.
+Clean, user-focused interface with intuitive and seamless navigation
 
-High-quality visuals that effectively showcase the brand’s expertise and services.
+High-quality visuals that clearly highlight the brand’s expertise and services
 
 Custom-built sections, interactive elements, and thoughtfully organized content enhance user engagement and reinforce brand credibility.
 ---
@@ -39,17 +39,17 @@ Custom-built sections, interactive elements, and thoughtfully organized content 
 
 ## 🎨 Design Process & Efforts
 
-Theme Customization – Customized a base WordPress theme to align with brand identity and layout needs.
+Theme Customization – Tailored a base WordPress theme to match brand identity and layout requirements.
 
-UI/UX Design – Designed a user-focused interface with refined typography and an automotive-inspired color palette.
+UI/UX Design – Crafted a user-centric interface with refined typography and an automotive-inspired color scheme.
 
-Page Development – Manually built each section using Elementor and custom CSS to achieve a distinctive visual style.
+Page Development – Built each section manually using Elementor and custom CSS to achieve a unique visual appearance.
 
-Image Optimization – Optimized and compressed images to improve performance while maintaining visual quality.
+Image Optimization – Compressed and optimized images to enhance performance without compromising quality.
 
-SEO & Performance Optimization – Implemented Yoast SEO and caching solutions to enhance loading speed and search engine visibility.
+SEO & Performance Optimization – Implemented Yoast SEO and caching solutions to improve load times and search visibility.
 
-Testing & Responsiveness – Performed extensive cross-browser and multi-device testing to ensure full responsiveness.
+Testing & Responsiveness – Conducted thorough cross-browser and multi-device testing to ensure full responsiveness.
 
 ---
 
