@@ -1,10 +1,12 @@
 # 🚗 Auto Rehab Global – Professional WordPress Website Development
 
+This custom WordPress website was built for Auto Rehab Global, a reputable automotive repair and restoration brand, delivering a modern, high-performance platform that highlights their expertise, restoration services, and custom automotive craftsmanship.
+
 ![Auto Rehab Global Screenshot 2](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/Home-Auto-Rehab-Globals-10-07-2025_10_58_PM.png)
 
 **Live Website:** [https://www.autorehabglobal.com/](https://www.autorehabglobal.com/)
 
-This custom WordPress website was built for Auto Rehab Global, a reputable automotive repair and restoration brand, delivering a modern, high-performance platform that highlights their expertise, restoration services, and custom automotive craftsmanship.
+
 ---
 
 ## 🧩 Project Overview
