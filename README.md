@@ -34,12 +34,12 @@ Custom-built sections, interactive elements, and strategically organized content
 
 ## 🎨 Design Process & Efforts
 
-- **Theme Customization** – Customized a Wix template to align with brand identity and layout requirements
-- **UI/UX Design** – Designed a user-centric interface with refined typography and an automotive-inspired color scheme
-- **Page Development** – Built each section manually using the Wix Editor and advanced layout customization
-- **Image Optimization** – Optimized and compressed images within Wix to improve performance without sacrificing quality
-- **SEO & Performance Optimization** – Implemented Wix SEO tools and best practices
-- **Testing & Responsiveness** – Conducted thorough cross-device and browser testing
+- **Theme Customization** – Customized a Wix template to align with brand identity and layout requirements, ensuring a consistent visual direction, improved structural flow, and a professional design that reflects the client’s business goals and overall brand personality.
+- **UI/UX Design** – Designed a user-centric interface with refined typography, balanced spacing, and an automotive-inspired color palette to enhance visual hierarchy, improve readability, and deliver an engaging and intuitive user experience across all sections of the website.
+- **Page Development** – Built each section manually using the Wix Editor and advanced layout customization techniques, ensuring pixel-perfect design implementation, smooth content alignment, and a fully structured website with seamless navigation and user flow.
+- **Image Optimization** – Optimized and compressed images within Wix to significantly improve loading speed and overall performance while maintaining high-quality visuals and ensuring a clean, professional appearance across all pages.
+- **SEO & Performance Optimization** – Implemented Wix SEO tools and industry best practices including meta titles, meta descriptions, alt attributes, and performance enhancements to improve search engine visibility, indexing, and overall organic reach.
+- **Testing & Responsiveness** – Implemented Wix SEO tools and industry best practices including meta titles, meta descriptions, alt attributes, and performance enhancements to improve search engine visibility, indexing, and overall organic reach.
 
 ---
 
