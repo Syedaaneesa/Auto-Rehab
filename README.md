@@ -68,10 +68,10 @@ Custom-built sections, interactive elements, and strategically organized content
 
 ## 📚 Learnings & Takeaways
 
-- Custom Wix website development
-- Responsive front-end layout design
-- SEO-focused content structuring using Wix tools
-- Performance optimization within the Wix ecosystem
+- Custom Wix website development tailored to client requirements, including unique layouts, branding alignment, and functional features to match business goals
+- Responsive front-end layout design ensuring seamless user experience across all devices including mobile, tablet, and desktop screens
+- SEO-focused content structuring using Wix tools to improve search engine visibility, keyword placement, and on-page optimization for better ranking
+- Performance optimization within the Wix ecosystem by improving loading speed, optimizing media assets, and enhancing overall site efficiency for smoother user interaction
 
 ---
 
