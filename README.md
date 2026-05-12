@@ -22,7 +22,7 @@ Custom-built sections, interactive elements, and strategically organized content
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Wix CMS**
 - **Wix Editor & Velo**
@@ -32,7 +32,7 @@ Custom-built sections, interactive elements, and strategically organized content
 
 ---
 
-## 🎨 Design Process & Efforts
+##  Design Process & Efforts
 
 - **Theme Customization** – Customized a Wix template to align with brand identity and layout requirements, ensuring a consistent visual direction, improved structural flow, and a professional design that reflects the client’s business goals and overall brand personality.
 - **UI/UX Design** – Designed a user-centric interface with refined typography, balanced spacing, and an automotive-inspired color palette to enhance visual hierarchy, improve readability, and deliver an engaging and intuitive user experience across all sections of the website.
@@ -43,7 +43,7 @@ Custom-built sections, interactive elements, and strategically organized content
 
 ---
 
-## 📸 Project Gallery
+##  Project Gallery
 
 ![Auto Rehab Global Screenshot 1](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/Gallery-Auto-Rehab-Globals-10-07-2025_11_01_PM.png)
 ![Auto Rehab Global Screenshot 2](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/Home-Auto-Rehab-Globals-10-07-2025_10_58_PM.png)
