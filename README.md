@@ -63,7 +63,7 @@ Custom-built sections, interactive elements, and strategically organized content
 
 ---
 
-## 📚 Learnings & Takeaways
+##  Learnings & Takeaways
 
 - Custom Wix website development tailored to client requirements, including unique layouts, branding alignment, and functional features to match business goals
 - Responsive front-end layout design ensuring seamless user experience across all devices including mobile, tablet, and desktop screens
@@ -72,10 +72,12 @@ Custom-built sections, interactive elements, and strategically organized content
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 
 **Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)  
+
 **Role:** Wix Developer / Designer  
+
 **Project Type:** Client-based live website project  
 
 ---
