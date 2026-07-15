@@ -22,7 +22,7 @@ Custom-built sections, interactive elements, and strategically organized content
 ##  Tools & Technologies Used
 
 - **Wix CMS**
-- **Wix Editor & Velo**
+- **Wix Studio**
 - **Custom CSS Styling**
 - **SSL Integration**
 - **Responsive Design Controls**
