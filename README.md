@@ -74,7 +74,7 @@ Custom-built sections, interactive elements, and strategically organized content
 
 ##  Developer
 
-**Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)  
+**Developed by:** Syeda Aneesa 
 
 **Role:** Wix Developer / Designer  
 
