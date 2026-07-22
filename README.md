@@ -5,7 +5,6 @@ This Wix website was designed for Auto Rehab Global, a trusted automotive repair
 
 Website Live Link: https://www.autorehabglobal.com/
 
----
 
 ##  Project Overview
 
@@ -17,7 +16,6 @@ Website Live Link: https://www.autorehabglobal.com/
 
 Custom-built sections, interactive elements, and strategically organized content work together to boost user engagement and build strong brand credibility.
 
----
 
 ##  Tools & Technologies Used
 
@@ -27,7 +25,6 @@ Custom-built sections, interactive elements, and strategically organized content
 - **SSL Integration**
 - **Responsive Design Controls**
 
----
 
 ##  Design Process & Efforts
 
@@ -38,7 +35,6 @@ Custom-built sections, interactive elements, and strategically organized content
 - **SEO & Performance Optimization** - Implemented Wix SEO tools and industry best practices including meta titles, meta descriptions, alt attributes, and performance enhancements to improve search engine visibility, indexing, and overall organic reach.
 - **Testing & Responsiveness** - Implemented Wix SEO tools and industry best practices including meta titles, meta descriptions, alt attributes, and performance enhancements to improve search engine visibility, indexing, and overall organic reach.
 
----
 
 ##  Project Gallery
 
@@ -51,7 +47,6 @@ Custom-built sections, interactive elements, and strategically organized content
 ![Auto Rehab Global Screenshot 7](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/uk-Auto-Rehab-Globals-10-07-2025_11_00_PM.png)
 ![Auto Rehab Global Screenshot 8](https://github.com/Syedaaneesa/Auto-Rehab/blob/main/uk-Auto-Rehab-Globals-10-07-2025_11_00_PMsa.png)
 
----
 
 ## 🚀 Deployment & Maintenance
 
@@ -61,7 +56,6 @@ Custom-built sections, interactive elements, and strategically organized content
 - SSL encryption along with advanced security measures ensures safe browsing and protects user data
 - Ongoing site maintenance and regular updates are carried out to keep the website secure, stable, and up to date
 
----
 
 ##  Learnings & Takeaways
 
@@ -70,7 +64,6 @@ Custom-built sections, interactive elements, and strategically organized content
 - SEO-focused content structuring using Wix tools to improve search engine visibility, keyword placement, and on-page optimization for better ranking
 - Performance optimization within the Wix ecosystem by improving loading speed, optimizing media assets, and enhancing overall site efficiency for smoother user interaction
 
----
 
 ##  Developer
 
@@ -80,7 +73,6 @@ Custom-built sections, interactive elements, and strategically organized content
 
 **Project Type:** Client-based live website project  
 
----
 
 ### ⭐ If you like this project, consider giving it a star  
 https://github.com/Syedaaneesa/Auto-Rehab
