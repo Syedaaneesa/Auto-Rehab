@@ -1,6 +1,8 @@
 #  Auto Rehab Global | Professional Wix Website Development on Wix Studio
 
-This Wix website was designed for Auto Rehab Global, a trusted automotive repair and restoration brand, with the goal of creating a modern and user-friendly platform that reflects their expertise and high-quality services. The site features a clean layout, responsive design, and smooth navigation across all devices. It highlights their key services, restoration work, and custom automotive craftsmanship through engaging visuals and well-structured content. Overall, the website provides a professional online presence that helps build credibility and attract potential clients.
+This Wix website was created for Auto Rehab Global to showcase their automotive repair, restoration, and customization services through a modern, professional online presence. Designed with a clean, responsive layout and intuitive navigation, the website delivers a seamless experience across desktop, tablet, and mobile devices.
+
+The site effectively highlights the company's core services, completed restoration projects, and craftsmanship using high-quality visuals and well-organized content. By combining an attractive design with clear messaging, the website helps strengthen the brand's credibility, engage visitors, and convert potential customers into inquiries.
 
 
 Website Live Link: https://www.autorehabglobal.com/
