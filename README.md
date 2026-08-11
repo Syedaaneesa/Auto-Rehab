@@ -5,7 +5,7 @@ This Wix website was created for Auto Rehab Global to showcase their automotive 
 The site effectively highlights the company's core services, completed restoration projects, and craftsmanship using high-quality visuals and well-organized content. By combining an attractive design with clear messaging, the website helps strengthen the brand's credibility, engage visitors, and convert potential customers into inquiries.
 
 
-Website Live Link: https://www.autorehabglobal.com/
+Website Live Link: [https://www.autorehabglobal.com/](https://www.autorehabglobal.com/)
 
 
 ##  Project Overview
